@@ -13,7 +13,10 @@ The problem statement for this project is to develop a leaderboard service that 
 - [License](#license)
 
 ## Introduction
-In this project, we aim to create a user-friendly and intuitive design for the Leaderboard Service application. Our goal is to enhance the user experience and improve overall usability.
+In this project, we aim to create a user-friendly and intuitive design for the Leaderboard Service application. Our goal is following:
+- **Receive Scores:** Handle scores published by the game service (from a topic or flat file).
+- **Store Scores:** Use a database to keep track of these scores.
+- **Return Top Scores:** Provide a service that retrieves the top 5 scores and the players' names with those scores.
 
 ## Installation
 To install the Leaderboard Service application, follow these steps:
