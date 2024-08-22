@@ -9,7 +9,7 @@ The problem statement for this project is to develop a leaderboard service that 
 - [Introduction](#introduction)
 - [API](#api)
 - [Design](#design)
-- [CoreAlgorithm](#core algorithm)
+- [Core Algorithm](#corealgorithm)
 - [Future Scope](#futurescope)
 - [Limitations](#limitations)
 - [Installation](#installation)
