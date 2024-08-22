@@ -1,0 +1,1 @@
+{"version":3,"file":"LeaderboardUpdateFailureException.js","sourceRoot":"","sources":["../../../../src/main/exceptions/LeaderboardUpdateFailureException.ts"],"names":[],"mappings":";;;AAAA,MAAa,iCAAkC,SAAQ,KAAK;IACxD,YAAY,OAAe;QACvB,KAAK,CAAC,OAAO,CAAC,CAAC;QACf,IAAI,CAAC,IAAI,GAAG,mCAAmC,CAAC;IACpD,CAAC;CACJ;AALD,8EAKC"}

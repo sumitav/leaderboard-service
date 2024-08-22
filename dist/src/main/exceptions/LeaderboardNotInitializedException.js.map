@@ -1,0 +1,1 @@
+{"version":3,"file":"LeaderboardNotInitializedException.js","sourceRoot":"","sources":["../../../../src/main/exceptions/LeaderboardNotInitializedException.ts"],"names":[],"mappings":";;;AAAA,MAAa,kCAAmC,SAAQ,KAAK;IACzD,YAAY,OAAe;QACvB,KAAK,CAAC,OAAO,CAAC,CAAC;QACf,IAAI,CAAC,IAAI,GAAG,oCAAoC,CAAC;IACrD,CAAC;CACJ;AALD,gFAKC"}

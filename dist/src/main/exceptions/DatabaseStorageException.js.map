@@ -1,0 +1,1 @@
+{"version":3,"file":"DatabaseStorageException.js","sourceRoot":"","sources":["../../../../src/main/exceptions/DatabaseStorageException.ts"],"names":[],"mappings":";;;AAAA,MAAa,wBAAyB,SAAQ,KAAK;IAC/C,YAAY,OAAe;QACvB,KAAK,CAAC,OAAO,CAAC,CAAC;QACf,IAAI,CAAC,IAAI,GAAG,0BAA0B,CAAC;IAC3C,CAAC;CACJ;AALD,4DAKC"}
