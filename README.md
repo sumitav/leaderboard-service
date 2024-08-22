@@ -8,6 +8,7 @@ The problem statement for this project is to develop a leaderboard service that 
 ## Table of Contents
 - [Introduction](#introduction)
 - [API](#api)
+- [Design](#design)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -39,7 +40,16 @@ Response: Status 201 Created and 400 for BAD_REQUEST
 Purpose: Check if the service and database is up/down
 Response: Status 200 Fetched with a status "UP" and 500 with Health Check Failed status "DOWN"
 
+## Design
+
+![High level diagram](assets/hld.jpg)
+
+![Low level component diagram](assets/component_diagram.jpg)
+
+![Schema](assets/schema.jpg)
+
 ## Installation
+
 To install the Leaderboard Service application, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-username/leaderboard-service.git`
 2. Install the required dependencies: `npm install`
